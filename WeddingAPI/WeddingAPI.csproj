@@ -102,7 +102,7 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\InvitadosController.cs" />
-    <Compile Include="Controllers\MesaRegaloesController.cs" />
+    <Compile Include="Controllers\MesaRegalosController.cs" />
     <Compile Include="Controllers\PuntoInteresController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

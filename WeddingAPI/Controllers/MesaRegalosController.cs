@@ -12,7 +12,7 @@ using WeddingAPI.Models;
 
 namespace WeddingAPI.Controllers
 {
-    public class MesaRegaloesController : ApiController
+    public class MesaRegalosController : ApiController
     {
         private WeddingModel db = new WeddingModel();
 
