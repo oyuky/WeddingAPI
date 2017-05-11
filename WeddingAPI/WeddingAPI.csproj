@@ -101,6 +101,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\InvitacionesController.cs" />
     <Compile Include="Controllers\InvitadosController.cs" />
     <Compile Include="Controllers\MesaRegalosController.cs" />
     <Compile Include="Controllers\PuntoInteresController.cs" />
@@ -116,6 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
